@@ -2,7 +2,7 @@
 
 Screenshot
 
-<img src="" width="50%">
+<img src="https://raw.githubusercontent.com/Hiroki11x/ofxCircleCropImage/master/art/image.png" width="50%">
 
 
 
